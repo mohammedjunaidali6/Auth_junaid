@@ -1,0 +1,268 @@
+Table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  justify-content: center;
+  display: inline-table;
+}
+table.table.table-striped.table-bordered.table-hover {
+  width: 90%;
+}
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
+
+ td{
+  height: 50px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.Apps {
+      text-align: center;
+  }
+
+html {
+    margin-top: 40px;
+}
+  
+.Apps {
+  width: 70%;
+  margin-left: 208px;
+}
+  
+th {
+   padding-right: 121px;
+}
+
+button.btn1.btn.btn-primary {
+  margin-left: -57px;
+  margin-top: 8px;
+  margin-bottom: 3px;
+}
+
+button.btn2.btn.btn-primary {
+    margin-right: 18px;
+    margin-top: 4px;
+}
+
+.form-group {
+  margin-left: 34px;
+}
+
+button.cancel.btn.btn-primary {
+  margin-left: 272px;
+  background-color: red;
+  text-decoration: none;
+  margin-top: 52px;
+}
+
+button.sub.btn.btn-primary {
+  margin-left: 5px;
+  margin-top: 55px;
+}
+
+button.btn0.btn.btn-primary {
+  margin-bottom: 31px;
+  margin-top: 18px;
+  margin-right: 538px;
+}
+
+button.sav.btn.btn-primary {
+  margin-left: 303px;
+  margin-top: 48px;
+}
+
+button.can.btn.btn-primary {
+  margin-left: 19px;
+  margin-top: 46px;
+}
+
+button.add.btn.btn-primary {
+  margin-bottom: 28px;
+  margin-right: 565px;
+  margin-top: -6px;
+}
+
+.ReactModal__Content.ReactModal__Content--after-open {
+  width: 37%;
+  margin-left: 406px;
+  background-color: rgb(110, 91, 91);
+}
+
+.input-group>.form-control, .input-group>.form-select {
+  position: relative;
+  flex: 1 1 auto;
+  width: 1%;
+  min-width: 0;
+  
+}
+  
+ button.btn1  {
+      margin-right: 10px;
+      font-size: 14px;
+      color: #fff;
+      background-color: #17a2b8;
+      border-color: #17a2b8;
+      text-decoration: none;
+      border: none;
+      padding: 4px;
+      width: 47px;
+      height: 32px;
+  }
+  
+  button.btn2 {
+      color: #fff;
+      background-color: #dc3545;
+      border-color: #dc3545;
+      font-size: 14px;
+      text-decoration: none;
+      border: none;
+      padding: 4px;
+      width: 55px;
+      height: 32px;
+  }
+  
+  .userBtn {
+    margin-left: -91vh;
+    padding: 9px;
+    background: green;
+    color: white;
+    border: none;
+  }
+  
+  .popup {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 60;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .popup_inner {
+    position: absolute;
+    padding: 20px;
+    left: 25%;
+    right: 25%;
+    top: 25%;
+    bottom: 25%;
+    margin: auto;
+    background: white;
+    width:33%;
+    height: 70%;
+  }
+  
+  .popupButtonClose {
+    color: #3c8dd5;
+    background: none;
+    border: none;
+    float: right;
+    padding-top: 8px;
+    padding-right: 10px;
+    font-size: 16px;
+    margin-top: 150px;
+  }
+  
+  .popupButtonSave {
+    color: white;
+    background-color: #3c8dd5;
+    float: right;
+    border: none;
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  input[placeholder="Enter author name" ] {
+    width: 86%;
+    padding: 17px;
+  }
+  
+  input[placeholder="Enter blog here" ] {
+    width: 86%;
+    padding: 17px;
+  }
+  
+  button.submit1 {
+    margin-top: 35%;
+    margin-left: 75%;
+  }
+
+  label {
+    margin-right: 61%;
+    margin-left: -28px;
+    margin-bottom: 5px;
+}
+  
+ @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+      }
+    }
+    
+.Apps-header {
+      background-color: #282c34;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-size: calc(10px + 2vmin);
+      color: white;
+}
+    
+.Apps-link {
+      color: #61dafb;
+}
+    
+ @keyframes App-logo-spin {
+      from {
+        transform: rotate(0deg);
+      }
+      to {
+        transform: rotate(360deg);
+      }
+ }
+  
+.ReactModal__Content.ReactModal__Content--after-open {
+      width: 37%;
+      margin-left: 406px;
+      height: 80%;
+      background-color: black;
+}
+  
+  h1 {
+    margin-left: 134px;
+}
+  
+  element.style {
+    position: fixed;
+    inset: 0px;
+    background-color: rgb(0 0 0 / 25%);
+}
+  
+  button.btn8.btn.btn-primary {
+    margin-left: 400px;
+    margin-top: -50px;
+    margin-bottom: 19px;
+}
+  
+  button.btn9.btn.btn-primary {
+    margin-left: 332px;
+    margin-top: 92px;
+}
+  
+  button.btnuser.btn.btn-primary {
+    margin-right: 577px;
+}
+
+  .table-bordered>:not(caption)>* {
+    border-width: 1px 0;
+    margin-top: 12px;
+}
